@@ -60,6 +60,47 @@ blockquote {
   font-size: 0.95em;
 }
 
+/* Center the header (title + subtitle) */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Subtitle styling */
+.subtitle {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Make navbar horizontal and centered */
+.nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+/* Style the links */
+.nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Hover effect */
+.nav a:hover {
+  text-decoration: underline;
+}
+
+/* Add lines above and below navbar */
+nav {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+
 
 
 
