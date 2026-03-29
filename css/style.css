@@ -1,52 +1,64 @@
-<!-- Sets base layout and typograghy -->
+/* Base layout and typography */
 body {
-  font-family: Montserrat, inter;
-  max-width:900px;
+  font-family: Montserrat, Inter, sans-serif;
+  max-width: 900px;
   margin: 40px auto;
-  padding: 0 20px
+  padding: 0 20px;
   line-height: 1.6;
 }
 
-<!-- navigation styling -->
-nav {
-  margin-bottom: 40px;
+/* Title */
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
 }
 
+/* Navigation styling */
+nav {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+/* Navbar list */
 .nav {
   list-style: none;
   padding: 0;
   display: flex;
-  gap: 20px;
+  justify-content: center; /* centers horizontally */
+  gap: 25px;
 }
 
+/* Links */
 .nav a {
   text-decoration: none;
   font-weight: bold;
   color: #333;
 }
 
-.nac a:hover {
+/* Hover */
+.nav a:hover {
   text-decoration: underline;
 }
-<!-- headings and spacing -->
-h1, h2 {
+
+/* Headings */
+h2 {
   margin-top: 1.5em;
 }
 
-<!--Blockquote used to capture interview participants voice vs my own  -->
+/* Blockquote (interview voice) */
 blockquote {
-  margin; 20px 0;
+  margin: 20px 0;
   padding-left: 15px;
   border-left: 3px solid #ccc;
   color: #444;
-  }
+}
 
-<!-- this styling will be used for my own voice/interpretations -->
+/* Analysis text */
 .analysis {
-  color; #555;
+  color: #555;
   font-size: 0.95em;
 }
-  
 
 
 
