@@ -1,1 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recipe</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
 
+<body>
+
+<header>
+  <h1>Shish barak</h1> 
+</header>
+
+<nav>
+  <ul class="nav">
+    <li><a href="../index.html">Home</a></li>
+    <li><a href="../recipes.html">Recipes</a></li>
+  </ul>
+</nav>
+
+<main>
+
+<section>
+  <h2>Recipe Context</h2>
+
+  <!--context/analysis -->
+  <p>
+    For Rami, dishes like shish barak are tied closely to memory, family, and tradition. Recipes like this are not just learned but passed down over time and generations, like in Rami’s case from his grandmother to him, and then him to me. These recipes are shaped by the people who make them and also by how they are shared. Cooking becomes a way for us to stay connected to these experiences, where each step carries something forward from the past, into the present and future. 
+
+Shish barak is a traditional dish found across the levant, consisting of small beef filled dumplings that are baked and then finished cooking a warm yogurt sauce. Often associated with home cooking, shish barak requires time and patience.
+
+The process itself, time spent preparing and shaping the dough, managing the yogurt sauce so as to not boil it, reflects a style of cooking that is learned through lots of practice and shared knowledge. 
+
+  </p>
+
+</section>
+
+<section>
+  <h2>Recipe</h2>
+
+  <h3>Ingredients</h3>
+
+  <!-- ingredients -->
+  <ul>
+    <li>
+  Dough:
+
+	-3 cups all purpose flour
+
+	-1 tbsp milk powder (optional)
+	
+	-1 tbsp sugar
+
+	-1 tsp salt
+
+  -1/3rd cup vegetable oil
+
+	-1 cup water
+
+Filling:
+
+	-½ lb ground beef
+
+	-3 tbsp toasted pine nuts
+
+	-1 small white onion
+
+	-handful of parsley
+
+	-3 garlic cloves (more to taste)
+
+	-½ tbsp paprika
+
+	-1 tbsp seven spice or allspice
+
+	-Salt and pepper to taste 
+
+Yogurt sauce: 
+
+	32oz plain yogurt
+
+	1 ½ tsp salt
+	
+	2 tbsp cornstarch 
+
+	2 cups water (adjust as needed)
+
+Garnish:
+
+-Garlic to taste
+
+-3 tbsp dried mint
+
+-Coriander
+
+-Parsley 
+
+
+</li>
+  </ul>
+
+  <h3>Instructions</h3>
+
+  <!-- recipe steps -->
+  <ol>
+    <li>
+
+Dough:
+Combine dry ingredients, then add oil and water. Mix until a smooth dough forms.
+Cover and let rest for 30 minutes to 1 hour.
+
+Filling:
+Toast pine nuts in olive oil until golden.
+Finely mince garlic, onion, and parsley.
+Mix with ground meat, spices, salt, and pepper.
+Cook on medium heat until browned, then add pine nuts.
+
+Dumplings:
+Roll dough thin and cut into small circles.
+Fill with meat mixture, fold over, and pinch into a tortellini-like shape.
+Bake at 400°F for 10–15 minutes until slightly dry and lightly browned.
+
+Yogurt Sauce:
+Heat yogurt slowly on low heat, adding salt and cornstarch mixture.
+Stir constantly and do not let it boil, or it will split and become sour.
+
+Plating:
+Add dumplings to the yogurt sauce and cook for a few minutes.
+Garnish with sautéed garlic, dried mint, parsley, and pine nuts. 
+</li>
+  </ol>
+
+</section>
+
+</main>
+
+</body>
+</html>
