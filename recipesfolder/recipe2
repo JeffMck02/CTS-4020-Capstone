@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ajvar</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
 
+<body>
+
+<header>
+  <h1>Ajvar</h1>
+</header>
+
+<nav>
+  <ul class="nav">
+    <li><a href="../index.html">Home</a></li>
+    <li><a href="../recipes.html">Recipes</a></li>
+  </ul>
+</nav>
+
+<main>
+
+<section>
+  <h2>Context</h2>
+
+  <p>
+    For Dacha, foods like ajvar are tied to a way of life where cooking is defined by the seasons and necessity. Growing up, much of the food his family ate was prepared in advance, preserved for colder months, and made in large batches. Ajvar is not something made quickly; traditionally, it is prepared over time, often in groups, turning cooking into a shared activity rather than an individual task.
+  </p>
+
+  <p>
+    Ajvar is a traditional pepper-based spread common across the Balkans, especially in Serbia and surrounding regions. It is typically made in late summer or early fall, when red peppers are in season and available in large quantities for preservation. The process itself is just as important as the final product. Families gather to roast, peel, and cook the peppers together, making the preparation a social and seasonal ritual.
+  </p>
+
+</section>
+
+<section>
+  <h2>Recipe</h2>
+
+  <h3>Ingredients</h3>
+  <ul>
+    <li>5 red peppers</li>
+    <li>1/4–1/3 cup sunflower oil</li>
+    <li>Salt (to taste)</li>
+    <li>Pinch of sugar</li>
+    <li><strong>Optional:</strong></li>
+    <li>1 eggplant</li>
+    <li>Garlic cloves (to taste)</li>
+  </ul>
+
+  <h3>Instructions</h3>
+  <ol>
+    <li>Preheat oven to 400°F.</li>
+    <li>Cut peppers into large pieces (halves or thirds). If using eggplant, remove the stem and cut into large flat pieces.</li>
+    <li>Arrange peppers (and eggplant, if using) on a baking sheet and roast for about 30 minutes, or until skins are darkened.</li>
+    <li>Transfer to a large bowl and cover to allow them to steam.</li>
+    <li>Once cooled, peel the skins from the peppers and eggplant.</li>
+    <li>Add to a food processor, along with garlic if using.</li>
+    <li>Slowly add sunflower oil and salt, pulsing until a slightly smooth consistency is reached.</li>
+    <li>Transfer mixture to a saucepan and simmer for about 30 minutes, stirring frequently.</li>
+    <li>Add a pinch of sugar and adjust salt as needed.</li>
+    <li>Cook until thickened, then remove from heat and allow to cool.</li>
+    <li>Store in a jar or airtight container for up to 7 days.</li>
+  </ol>
+
+</section>
+
+</main>
+
+</body>
+</html>
